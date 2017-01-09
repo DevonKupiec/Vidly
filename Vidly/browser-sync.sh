@@ -1,0 +1,1 @@
+browser-sync start -p "localhost:53726" --files "content/*.css, scripts/*.js, views/**/*.cshtml"
